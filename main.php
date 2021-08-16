@@ -19,7 +19,7 @@ $player = new CharacterController($character, $shop, $view);
 //$player->showGold();
 //$player->showStats();
 //$player->showItems();
-//$player->managePurchase('z');
+//$player->managePurchase('warrior');
 ////after purchase
 //$player->showGold();
 //$player->showStats();
